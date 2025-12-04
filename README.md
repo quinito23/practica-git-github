@@ -6,3 +6,13 @@ Esta es la nueva línea al final del archivo
 
 ## Conexión SSH realizazda
 He configurado correctamente la conexión SSH.
+
+## Lista de tareas completadas
+
+1- Configuración inicial de Git.
+2- Creación y manejo del repositorio local.
+3- Restauración, revisión y control del historial.
+4- Creación del repositorio remoto en GitHub.
+5- Conexión remota y primer push por HTTPS con Token.
+6- Conexión mediante SSH y push sin contraseña.
+7- Comprobación de clonación y sincronización.
