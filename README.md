@@ -1,0 +1,2 @@
+Este proyecto se trata de una práctica para aprender a utilizar Git y Github.
+Crearemos un repositorio de Git sobre una carpeta que contiene un programa en python que selecciona palabras de una lista que sean mayores que el límite especificado, y su respectivo test
